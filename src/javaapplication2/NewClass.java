@@ -10,5 +10,5 @@ package javaapplication2;
  * @author Matej Škultéty
  */
 public class NewClass {
-    //kgjfy
+    //kgjfyddcd
 }
